@@ -1,0 +1,11 @@
+{
+    "name": "happyserver",
+    "version": "1.0.0",
+    "description": "",
+    "main": "HappyNewYear.js",
+    "scripts": {
+        "start": "nodemon HappyNewYear"
+    },
+    "author": "",
+    "license": "ISC"
+}
